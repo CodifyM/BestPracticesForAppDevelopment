@@ -1,4 +1,4 @@
 1. Always write clean and readable code, meaning try putting as many comments as possible, also make sure to give proper spacing.
 2. Always try going with loose coupling approach while coding as it makes u independant.
 3. Take milkShake :) and obviously ice creams in between.
-4. Always have a buffer time of around 50% of actual project time post deploying into production.
+4. Always have a buffer time of around 50% of actual project time pre deploying into production.
